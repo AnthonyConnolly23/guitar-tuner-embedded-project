@@ -1,0 +1,15 @@
+# Build output
+Debug/
+Release/
+*.elf
+*.hex
+*.map
+
+# CubeIDE / Eclipse junk
+.settings/
+.metadata/
+*.launch
+
+# OS files
+.DS_Store
+Thumbs.db
